@@ -2,9 +2,9 @@
 ## You have to write markdown
 ### Some Math Equation
 <p align="center">
-  First equation: Y=Xβ+ϵ<sub>y</sub>, ∀X <br>
-  Second equation: X=Zγ+ϵ<sub>x</sub> <br>
-  f<sub>1</sub>=$\frac{σ^2}{2π}$,ω∈[−π,π]<br>
+  First equation: $Y=Xβ+ϵ<sub>y</sub>, ∀X $<br>
+  Second equation: $X=Zγ+ϵ<sub>x</sub> $ <br>
+  f_{1}=$\frac{σ^2}{2π}$,ω∈[−π,π]<br>
 </p>
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item <br>
 2. Second item <br>
