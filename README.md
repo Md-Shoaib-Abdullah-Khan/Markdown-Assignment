@@ -15,6 +15,6 @@
 - Second Item <br>
   - first sub-item <br>
      - first sub-sub-item <br>
-  - second sub-item <br>
-<br>
+  - second sub-item <br><br>
+
 ![Cute Cat](cat.png)
