@@ -9,7 +9,7 @@
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item <br>
 2. Second item <br>
 3. Third item a. second sub item <br>
-4. Fourth Item <br>
+4. Fourth Item <br><br>
 
 - First Item <br>
 - Second Item <br>
@@ -18,3 +18,8 @@
   - second sub-item <br><br>
 
 ![Cute Cat](cat.png)
+
+library(tidyverse) <br>
+library(mdsr) <br>
+SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() + <br>
+geom_density() + theme_minimal() + labs(title = "SAT Writing Scores") <br>
