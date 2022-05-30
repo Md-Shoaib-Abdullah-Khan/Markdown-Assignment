@@ -2,8 +2,8 @@
 ## You have to write markdown
 ### Some Math Equation
 <p align="center">
-  First equation: <em>Y=Xβ+ϵ<sub>y</sub>, ∀X </em><br>
-  Second equation: $X=Zγ+ϵ<sub>x</sub>$ <br>
+  First equation: <em>$Y=Xβ+ϵ_y, ∀X $</em><br>
+  Second equation: <em>$X=Zγ+ϵ_x$ </em><br>
   f_{1}(ω)=$\frac{σ^2}{2π}$,ω∈[−π,π]<br>
 </p>
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item <br>
