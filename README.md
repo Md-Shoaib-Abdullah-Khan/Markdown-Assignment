@@ -4,7 +4,7 @@
 <p align="center">
   First equation: $Y=Xβ+ϵ_y, ∀X $ <br>
   Second equation: $X=Zγ+ϵ_x$ <br>
-  f_{1}(ω)=$\frac{σ^2}{2π}$,ω∈[−π,π]<br>
+  $f_{1}(ω)=\frac{σ^2}{2π}$,ω∈[−π,π]<br>
 </p>
 1. First item a. first sub-item A) first sub-sub-item b. second sub-item <br>
 2. Second item <br>
